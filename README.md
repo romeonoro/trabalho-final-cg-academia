@@ -14,8 +14,10 @@ importados**; o ambiente (piso, paredes, teto e espelhos) é geometria procedura
    ```
    python -m venv venv
    # Windows (PowerShell):  .\venv\Scripts\Activate.ps1
+   Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
    # Windows (cmd):         venv\Scripts\activate.bat
    # Linux/Mac:             source venv/bin/activate
+   
    ```
 2. Instale as dependências:
    ```
