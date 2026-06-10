@@ -5,6 +5,10 @@ Cenário 3D de uma academia de boxe em **OpenGL Moderno (Python)**, reutilizando
 a estrutura dos códigos vistos em aula. Todos os equipamentos são **modelos .obj
 importados**; o ambiente (piso, paredes, teto e espelhos) é geometria procedural.
 
+<img width="996" height="696" alt="Captura de tela 2026-06-10 083345" src="https://github.com/user-attachments/assets/e73e9b53-785e-44f5-93c9-3431ad8e9809" />
+
+<img width="995" height="688" alt="Captura de tela 2026-06-10 083511" src="https://github.com/user-attachments/assets/a79a96d8-3d7e-440f-a9a7-9b90da52aa89" />
+
 ### Como executar
 1. (Recomendado) Crie e ative um ambiente virtual:
    ```
