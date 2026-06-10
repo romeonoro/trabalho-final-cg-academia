@@ -1,0 +1,6 @@
+glfw==2.10.0
+multipledispatch==1.0.0
+numpy==2.4.6
+pillow==12.2.0
+PyOpenGL==3.1.10
+pyrr==0.10.3
